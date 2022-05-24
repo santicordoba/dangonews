@@ -1,0 +1,22 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "JSON Rest API  server for dangonoticias.com project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "rest",
+    "api",
+    "json"
+  ],
+  "author": "Santiago Córdoba",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
